@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
 </head>
 <body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.987.0" style="background-color:black;">
 <p>&nbsp;
