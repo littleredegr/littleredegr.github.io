@@ -10,7 +10,7 @@
 
 <div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:#E6E6FA;"><span style="font-size: 20px;"><span style="font-family: &quot;comic sans ms&quot;, cursive;"><big>Instructions:</big></span></span></span></div>
 
-<div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:#E6E6FA;"><span style="font-size: 20px;"><span style="font-family: &quot;comic sans ms&quot;, cursive;"><big>Click Image or text of class you want</big></span></span></span></div>
+<div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;"><span style="color:#E6E6FA;"><span style="font-size: 20px;"><span style="font-family: &quot;comic sans ms&quot;, cursive;"><big>Left click Image or text of class you want and select open in new tab</big></span></span></span></div>
 
 <div style="color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif; font-size: 12px; text-align: center;">&nbsp;</div>
 
