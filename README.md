@@ -1,7 +1,4 @@
 <html>
-<head>
-	<title></title>
-</head>
 <body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.988.0" data-new-gr-c-s-loaded="14.988.0" style="background-color:black;">
 <p>&nbsp;</p>
 
