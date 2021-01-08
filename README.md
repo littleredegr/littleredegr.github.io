@@ -1,7 +1,7 @@
+<html>
 <head>
-
 </head>
-<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.991.0">
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.991.0" style="background-color:black;">
 <p>&nbsp;</p>
 
 <h3 style="text-align: center;"><span style="color:#AFEEEE;"><span style="font-family:comic sans ms,cursive;"><span style="font-size: 28px;"><big>Animal Care study notes</big></span></span></span></h3>
